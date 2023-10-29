@@ -1,5 +1,7 @@
 # ALGORITHMS
 
+IZMENA
+
 Algorithms, Part I (prof. Sedgewick)  (Princeton University - Coursera)
 
 fundamental data types, algorithms, and data structures, Java implementations. Union-find algorithms; basic iterable data types (stack, queues, and bags); sorting algorithms (quicksort, mergesort, heapsort) and applications; priority queues; binary search trees; red-black trees; hash tables; and symbol-table applications.
